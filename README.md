@@ -11,3 +11,6 @@ Visualizing dot file:
 1. get the dot CLI somehow
 2. `dot -Tsvg my_network.dot -o outfile.svg`
 3. use a browser or any SVG renderer to open the outfile.svg file and check it out
+
+example screenshot of my network:
+![Network Graph Visualized](https://github.com/gedkott/network_visualizer/blob/master/graph.png)
